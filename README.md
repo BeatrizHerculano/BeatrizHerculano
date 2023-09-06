@@ -1,20 +1,27 @@
 ### Hi there 👋
 
 #### My name is Beatriz
-##### I'm an IOS Developer and I love animals plants and textile arts
+I'm a Senior IOS Developer
 
-I am a developer since 2016. I`ve worked with chatbots, data mining, Typescript, Javascript, TDD, Flutter, Swift, and much more.
-Technology is my inspiration, it changed my life and I hope it changes the life of much more people.
-I am always looking to be a better developer, to grow in my career, and to help everyone around me to do the same.
-These are some of my projects that I really like and that showcase my expertise:
+I have been working as a developer since 2016, specializing in various areas such as chatbots, data mining, Typescript, Javascript, TDD, Flutter, Swift, and more. Technology has been my driving force and it has transformed my life for the better. I aspire to help others experience the same transformational change through technology. I am constantly striving to improve my skills as a developer and advance my career, while also being committed to supporting and encouraging those around me to do the same. Here are a few of my favorite projects that demonstrate my expertise:
 
 ## PROJECTS HERE
 
 #### For Recruiters
 
-If you received an application from me or had me recommended for a job, you can read in more detail about my experiences here
+If you have received my job application or a recommendation for me, you can find more detailed information about my previous experiences here.
 
-In summary, these are my skills and an explanation of how confident I am in them:
+To summarize, this is an overview of my skills and the level of confidence I have in each one:
+|     Skill    | Level of Experience | Description of use                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|:------------:|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Swift        | 🌟 🌟 🌟 🌟 🌟  | Used in a daily basis with complex scenarios. Applied many different concepts and techniques like TDD, functional programming, Design Patterns, Clean Architecture and more                                                                                                                                                                                                                                                                                     |
+| View Code    | 🌟 🌟 🌟 🌟 | Built many screens with complex designs and components for design systems                                                                                                                                                                                                                                                                                                                                                                                       |
+| Animation    | 🌟 🌟 🌟 🌟 | Applied animations wherever I had an opportunity stating with simple animations as a progress bar to more complex ones.                                                                                                                                                                                                                                                                                                                                         |
+| Unit Testing | 🌟 🌟 🌟 🌟 🌟| Unit testing has had a significant impact on my coding practices. Ever since I started working with Backend in JS, I have implemented unit testing in my projects and achieved up to 90% code coverage. Even during my iOS development experience, I was able to create a module for a super app with 80% of the code tested.                                                                                                                                   |
+| XCodegen     | 🌟 🌟 🌟 🌟| Since the start of my career in IOS development, I have used Xcodegen. It is an excellent tool for simplifying text and managing multiple languages, preventing errors in collaborative app development, and customizing the Xcode project.                                                                                                                                                                                                                     |
+| CocoaPods    | 🌟 🌟 🌟 🌟 | CocoaPods was the main dependency manager in the projects I worked on. I am experienced in using to install new dependencies and managing the pod spec file for the modules I developed                                                                                                                                                                                                                                                                         |
+| Git          | 🌟 🌟 🌟 🌟 🌟 | I've been using Git for version control in my projects since I started development. Over time, I've utilized various branch management techniques such as trunk-based and Git flow. I've gained a reputation for being skilled in resolving conflicts that arise during merges and rebases in my previous experiences. Currently, I'm looking to expand my knowledge by learning more about the cherry-pick command and understanding the underlying processes. |
+
 
 # STOP 🛑 
 THIS IS AN EMERGENCY - MANDATORY PET PICTURE [HERE](https://github.com/BeatrizHerculano/BeatrizHerculano/issues/1#issuecomment-new)
