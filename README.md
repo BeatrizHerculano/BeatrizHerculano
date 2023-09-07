@@ -5,7 +5,7 @@ I'm a Senior IOS Developer
 
 I have been working as a developer since 2016, specializing in various areas such as chatbots, data mining, Typescript, Javascript, TDD, Flutter, Swift, and more. Technology has been my driving force and it has transformed my life for the better. I aspire to help others experience the same transformational change through technology. I am constantly striving to improve my skills as a developer and advance my career, while also being committed to supporting and encouraging those around me to do the same. Here are a few of my favorite projects that demonstrate my expertise:
 
-## PROJECTS HERE
+[Animated Progress Bar](https://github.com/BeatrizHerculano/AnimatedProgressBar)
 
 #### For Recruiters
 
