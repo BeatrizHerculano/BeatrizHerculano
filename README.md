@@ -9,6 +9,8 @@ I have been working as a developer since 2016, specializing in various areas suc
 
 [Simple Accordion](https://github.com/BeatrizHerculano/SimpleAccordion)
 
+[Screen Time App: Monitoring App Usage](https://github.com/BeatrizHerculano/ScreenTimeApp)
+
 #### For Recruiters
 
 If you have received my job application or a recommendation for me, you can find more detailed information about my previous experiences here.
