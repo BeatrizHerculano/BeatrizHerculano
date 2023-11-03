@@ -26,6 +26,8 @@ To summarize, this is an overview of my skills and the level of confidence I hav
 | CocoaPods    | 🌟 🌟 🌟 🌟 | CocoaPods was the main dependency manager in the projects I worked on. I am experienced in using to install new dependencies and managing the pod spec file for the modules I developed                                                                                                                                                                                                                                                                         |
 | Git          | 🌟 🌟 🌟 🌟 🌟 | I've been using Git for version control in my projects since I started development. Over time, I've utilized various branch management techniques such as trunk-based and Git flow. I've gained a reputation for being skilled in resolving conflicts that arise during merges and rebases in my previous experiences. Currently, I'm looking to expand my knowledge by learning more about the cherry-pick command and understanding the underlying processes. |
 
+| The Composable Architecture         | 🌟 🌟 🌟 🌟 | I use TCA as the main archtecture for my SwiftUI Projects. It gives a natural and secure way to control the application state. The code generated is very clean, understandable and can be integrated easily with more libraries. |
+
 
 # STOP 🛑 
 THIS IS AN EMERGENCY - MANDATORY PET PICTURE [HERE](https://github.com/BeatrizHerculano/BeatrizHerculano/issues/1#issuecomment-new)
